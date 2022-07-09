@@ -3,10 +3,11 @@
 // Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
 // import HelloWorld from './components/HelloWorld.vue'
 import Tweet from './components/Tweet.vue'
+import Persons from './components/Persons.vue';
 </script>
 
 <template>
-  <Tweet></Tweet>
+  <Persons />
 </template>
 
 <style>
